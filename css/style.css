@@ -973,7 +973,7 @@ i::before,i::after{
 	position: fixed;
 	right: 0;
 	top: 0;
-	background: #00bcd4;
+	background: #1f1e2f;
 	z-index: 1032;
 	height: 100%;
 	-webkit-transform: translate3d(100%, 0, 0);
