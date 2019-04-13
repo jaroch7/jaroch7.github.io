@@ -230,7 +230,7 @@ blockquote.blockquote::before{
    font-weight: 200;
 }
 .bglight {
-    background: #f6f6f6;
+    background: #25252b;
 }
 .bgdefault {
     background: #00bcd4;
@@ -1700,8 +1700,11 @@ i::before,i::after{
 }
 .reel {
   padding: 100px;
+  font-size: 1.5rem;
 }
-
+#logos {
+  background-color: #000000;
+}
 
 /*------------------------------------------------------------------------*/
 /* Video Reel Ends */
